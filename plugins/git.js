@@ -25,7 +25,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
 
 *Yt_PASSWORD: _________(password on this video watch it full)*
 
-*githublink : https://github.com/Philipsmith6175/Philsmagic*
+*githublink : https://github.com/Philipsmith6175/MagicBOT*
 
 *audio commads : https://github.com/cyberchekuthan/Amalser_v2/tree/master/uploads*
 `}) 
